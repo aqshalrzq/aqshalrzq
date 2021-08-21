@@ -1,6 +1,7 @@
 <h1>Hi, there! 👋, I'm Aqshal Rizqullah</h1>
 <h3 align="justify">I am someone who has an interest in the field of application development, especially for mobile application development. Some of the technologies that I learned are how to develop mobile applications using Flutter and Android Studio (native). In addition, I also learned to develop myself such as how to manage a project and I am very happy to share what I have through my blog on social media. Interested in getting to know me? Follow me yeah!</h3>
 <h3>About Me</h3>
+
 - 🌱 I’m currently learning develop mobile applications using Flutter and Android Studio
 
 - 👯 I’m looking to collaborate on Gendut Idaman. We made a post about how to develop a simple application on the Instagram platform [(gendut.idaman)](https://www.instagram.com/gendut.idaman/)
@@ -9,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aqshalrzq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aqshalrzq_" height="30" width="40" /></a>
+<a href="https://twitter.com/aqshalrzq_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aqshalrzq_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aqshalrzq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aqshalrzq" height="30" width="40" /></a>
 <a href="https://fb.com/aqshal.rizqullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aqshal.rizqullah" height="30" width="40" /></a>
 <a href="https://instagram.com/aqshal.rzq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aqshal.rzq" height="30" width="40" /></a>
