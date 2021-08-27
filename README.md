@@ -1,8 +1,8 @@
 <h1>Hello everyone, Nice to meet you! 👋</h1>
 <p align="justify">Introducing, my name is Aqshal Rizqullah. I am someone who likes technology development. One of them is technology in the field of mobile application development. I have followed and learned many things, one of which is how to develop mobile applications using Java and Flutter both in Android Studio and Visual Studio Code.</p>
-<h4 align="justify">In addition, I also develop what I love apart from technology. For example, how to learn to introduce a product, then how to lead a team on a project. Not only that, I also like to write about my experiences when developing mobile applications on the Instagram platform.
-</h4>
-<h4 align="justify">Interested in getting acquainted? Come on, follow each other and grow together!</h4>
+<p align="justify">In addition, I also develop what I love apart from technology. For example, how to learn to introduce a product, then how to lead a team on a project. Not only that, I also like to write about my experiences when developing mobile applications on the Instagram platform.
+</p>
+<p align="justify">Interested in getting acquainted? Come on, follow each other and grow together!</p>
 
 <h2>About Me</h2>
 
